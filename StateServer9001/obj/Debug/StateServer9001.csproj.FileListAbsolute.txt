@@ -1,6 +1,5 @@
 C:\Test\AspNetSessionManage\StateServer9001\bin\StateServer9001.dll.config
 C:\Test\AspNetSessionManage\StateServer9001\bin\StateServer9001.dll
 C:\Test\AspNetSessionManage\StateServer9001\bin\StateServer9001.pdb
-C:\Test\AspNetSessionManage\StateServer9001\obj\Debug\StateServer9001.csprojResolveAssemblyReference.cache
 C:\Test\AspNetSessionManage\StateServer9001\obj\Debug\StateServer9001.dll
 C:\Test\AspNetSessionManage\StateServer9001\obj\Debug\StateServer9001.pdb

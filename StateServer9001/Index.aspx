@@ -18,7 +18,7 @@
     <div>
        <ul>
          <li class="liColor">
-             StateServer
+             StateServer9001
              </li>
         <li>
             <asp:Label ID="Label0" runat="server"></asp:Label></li>

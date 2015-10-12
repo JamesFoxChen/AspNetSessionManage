@@ -1,0 +1,9 @@
+C:\Test\AspNetSessionManage\RedisCustom9000\bin\RedisCustom9000.dll.config
+C:\Test\AspNetSessionManage\RedisCustom9000\bin\RedisCustom9000.dll
+C:\Test\AspNetSessionManage\RedisCustom9000\bin\RedisCustom9000.pdb
+C:\Test\AspNetSessionManage\RedisCustom9000\bin\Newtonsoft.Json.dll
+C:\Test\AspNetSessionManage\RedisCustom9000\bin\ServiceStack.dll
+C:\Test\AspNetSessionManage\RedisCustom9000\bin\ServiceStack.Interfaces.dll
+C:\Test\AspNetSessionManage\RedisCustom9000\bin\ServiceStack.ServiceInterface.dll
+C:\Test\AspNetSessionManage\RedisCustom9000\obj\Debug\RedisCustom9000.dll
+C:\Test\AspNetSessionManage\RedisCustom9000\obj\Debug\RedisCustom9000.pdb

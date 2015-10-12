@@ -1,0 +1,10 @@
+C:\Test\AspNetSessionManage\RedisBase9001\bin\RedisBase9001.dll.config
+C:\Test\AspNetSessionManage\RedisBase9001\bin\RedisBase9001.dll
+C:\Test\AspNetSessionManage\RedisBase9001\bin\RedisBase9001.pdb
+C:\Test\AspNetSessionManage\RedisBase9001\bin\Newtonsoft.Json.dll
+C:\Test\AspNetSessionManage\RedisBase9001\bin\ServiceStack.dll
+C:\Test\AspNetSessionManage\RedisBase9001\bin\ServiceStack.Interfaces.dll
+C:\Test\AspNetSessionManage\RedisBase9001\bin\ServiceStack.ServiceInterface.dll
+C:\Test\AspNetSessionManage\RedisBase9001\obj\Debug\RedisBase9001.dll
+C:\Test\AspNetSessionManage\RedisBase9001\obj\Debug\RedisBase9001.pdb
+C:\Test\AspNetSessionManage\RedisBase9001\obj\Debug\RedisBase9001.csprojResolveAssemblyReference.cache

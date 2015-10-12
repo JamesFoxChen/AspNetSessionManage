@@ -32,7 +32,7 @@ namespace StateServer9001
 
             if (Session["UserId"] == null)
             {
-                Session["UserId"] = "9000: " + DateTime.Now.ToString();
+                Session["UserId"] = "Session：9000: " + DateTime.Now.ToString();
             }
             this.lblSession.Text = Session["UserId"].ToString();
         }
