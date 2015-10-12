@@ -1,0 +1,5 @@
+C:\Test\AspNetSessionManage\StateServer9000\bin\StateServer9000.dll.config
+C:\Test\AspNetSessionManage\StateServer9000\bin\StateServer9000.dll
+C:\Test\AspNetSessionManage\StateServer9000\bin\StateServer9000.pdb
+C:\Test\AspNetSessionManage\StateServer9000\obj\Debug\StateServer9000.dll
+C:\Test\AspNetSessionManage\StateServer9000\obj\Debug\StateServer9000.pdb
