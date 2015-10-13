@@ -2,9 +2,10 @@ C:\Test\AspNetSessionManage\RedisBase9000\bin\RedisBase9000.dll.config
 C:\Test\AspNetSessionManage\RedisBase9000\bin\RedisBase9000.dll
 C:\Test\AspNetSessionManage\RedisBase9000\bin\RedisBase9000.pdb
 C:\Test\AspNetSessionManage\RedisBase9000\bin\Newtonsoft.Json.dll
-C:\Test\AspNetSessionManage\RedisBase9000\bin\ServiceStack.dll
 C:\Test\AspNetSessionManage\RedisBase9000\bin\ServiceStack.Interfaces.dll
-C:\Test\AspNetSessionManage\RedisBase9000\bin\ServiceStack.ServiceInterface.dll
 C:\Test\AspNetSessionManage\RedisBase9000\obj\Debug\RedisBase9000.dll
 C:\Test\AspNetSessionManage\RedisBase9000\obj\Debug\RedisBase9000.pdb
 C:\Test\AspNetSessionManage\RedisBase9000\obj\Debug\RedisBase9000.csprojResolveAssemblyReference.cache
+C:\Test\AspNetSessionManage\RedisBase9000\bin\ServiceStack.Common.dll
+C:\Test\AspNetSessionManage\RedisBase9000\bin\ServiceStack.Redis.dll
+C:\Test\AspNetSessionManage\RedisBase9000\bin\ServiceStack.Text.dll

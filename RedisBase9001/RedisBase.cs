@@ -147,7 +147,7 @@ namespace RedisBase9001
             }
         }
 
-        public static int List_Count(string key)
+        public static long List_Count(string key)
         {
             using (IRedisClient redis = prcm.GetReadOnlyClient())
             {
@@ -336,7 +336,7 @@ namespace RedisBase9001
         /// 获取Hash集合数量 
         /// </summary> 
         /// <param name="key">Hashid</param> 
-        public static int Hash_GetCount(string key)
+        public static long Hash_GetCount(string key)
         {
             using (IRedisClient redis = prcm.GetReadOnlyClient())
             {
@@ -382,7 +382,7 @@ namespace RedisBase9001
         /// <param name="key"></param> 
         /// <param name="size">保留的条数</param> 
         /// <returns></returns> 
-        public static int SortedSet_Trim(string key, int size)
+        public static long SortedSet_Trim(string key, int size)
         {
             using (IRedisClient redis = prcm.GetClient())
             {
@@ -394,7 +394,7 @@ namespace RedisBase9001
         /// </summary> 
         /// <param name="key"></param> 
         /// <returns></returns> 
-        public static int SortedSet_Count(string key)
+        public static long SortedSet_Count(string key)
         {
             using (IRedisClient redis = prcm.GetReadOnlyClient())
             {
