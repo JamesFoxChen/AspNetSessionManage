@@ -1,0 +1,10 @@
+C:\Test\AspNetSessionManage\RedisTest\bin\Debug\RedisTest.exe.config
+C:\Test\AspNetSessionManage\RedisTest\bin\Debug\RedisTest.exe
+C:\Test\AspNetSessionManage\RedisTest\bin\Debug\RedisTest.pdb
+C:\Test\AspNetSessionManage\RedisTest\bin\Debug\ServiceStack.Interfaces.dll
+C:\Test\AspNetSessionManage\RedisTest\obj\Debug\RedisTest.exe
+C:\Test\AspNetSessionManage\RedisTest\obj\Debug\RedisTest.pdb
+C:\Test\AspNetSessionManage\RedisTest\bin\Debug\ServiceStack.Common.dll
+C:\Test\AspNetSessionManage\RedisTest\bin\Debug\ServiceStack.Redis.dll
+C:\Test\AspNetSessionManage\RedisTest\bin\Debug\ServiceStack.Text.dll
+C:\Test\AspNetSessionManage\RedisTest\obj\Debug\RedisTest.csprojResolveAssemblyReference.cache
