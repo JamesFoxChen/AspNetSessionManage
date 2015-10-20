@@ -15,8 +15,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RedisCustom9000", "RedisCus
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RedisCustom9001", "RedisCustom9001\RedisCustom9001.csproj", "{B9584547-DE7A-4CAF-9410-D2C48B9BF184}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RedisTest", "RedisTest\RedisTest.csproj", "{9592BAA6-FBF6-40DC-997F-3E7723E78358}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -47,10 +45,6 @@ Global
 		{B9584547-DE7A-4CAF-9410-D2C48B9BF184}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B9584547-DE7A-4CAF-9410-D2C48B9BF184}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B9584547-DE7A-4CAF-9410-D2C48B9BF184}.Release|Any CPU.Build.0 = Release|Any CPU
-		{9592BAA6-FBF6-40DC-997F-3E7723E78358}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{9592BAA6-FBF6-40DC-997F-3E7723E78358}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{9592BAA6-FBF6-40DC-997F-3E7723E78358}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{9592BAA6-FBF6-40DC-997F-3E7723E78358}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

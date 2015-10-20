@@ -5,7 +5,6 @@ C:\Test\AspNetSessionManage\RedisCustom9000\bin\Newtonsoft.Json.dll
 C:\Test\AspNetSessionManage\RedisCustom9000\bin\ServiceStack.Interfaces.dll
 C:\Test\AspNetSessionManage\RedisCustom9000\obj\Debug\RedisCustom9000.dll
 C:\Test\AspNetSessionManage\RedisCustom9000\obj\Debug\RedisCustom9000.pdb
-C:\Test\AspNetSessionManage\RedisCustom9000\obj\Debug\RedisCustom9000.csprojResolveAssemblyReference.cache
 C:\Test\AspNetSessionManage\RedisCustom9000\bin\ServiceStack.Common.dll
 C:\Test\AspNetSessionManage\RedisCustom9000\bin\ServiceStack.Redis.dll
 C:\Test\AspNetSessionManage\RedisCustom9000\bin\ServiceStack.Text.dll
