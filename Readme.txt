@@ -1,4 +1,7 @@
-Ngix负载均衡请求网址： 
+Session的三种使用方法
+一、进程内（Session默认）
+二、状态服务器（StateServer）
+三、Redis集中式管理Session
 
 
-http://localhost:8999/Index.aspx
+默认分布式管理使用Nginx
